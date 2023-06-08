@@ -2,7 +2,7 @@ import React from "react";
 import "./GetStarted.css";
 const GetStarted = () => {
   return (
-    <section className="G-wrapper">
+    <section className="G-wrapper" id = "GetStarted">
       <div className="paddings innerWidth g-container">
         <div className="flexColCenter innerContainer">
           <span className="primaryText">Get started with Homyz</span>
