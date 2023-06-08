@@ -8,6 +8,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+
+"devServer": {
+  "host": "0.0.0.0"
+},
+
   "dependencies": {
     "framer-motion": "^10.8.5",
     "react": "^18.2.0",
